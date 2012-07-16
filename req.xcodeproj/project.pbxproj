@@ -201,6 +201,7 @@
 				10E8F63E142CCECA0003A5C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
